@@ -100,8 +100,8 @@ header.static {
 /* header logo */
 header .logo {
    position: relative;
-   height: 54px;
-   width: 150px;
+   height: 100px;
+   width: 350px;
    float: left;
 }
 header .logo a {
