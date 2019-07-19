@@ -207,7 +207,7 @@ ul#nav li.active a { color: #11ABB0; }
    margin: 0;
 }
 .slider-text h2 span,
-.slider-text a { color: #11ABB0; }
+.slider-text a { color: #fee734; }
 
 .slider-text p {
    font: 17px/36px opensans-light, sans-serif;
@@ -279,9 +279,9 @@ ul#nav li.active a { color: #11ABB0; }
 #services a, #services a:visited  { color: #C4C4C4; }
 #services a:hover, #services a:focus { color: #11ABB0; }
 
-#services .section-head h2 { color: #11ABB0; }
+#services .section-head h2 { color: #fee734; }
 #services .section-head p.desc,
-#services .section-head .intro { color: #57606B; }
+#services .section-head .intro { color: #11ABB0; }
 
 .services-wrapper { margin-top: 42px; }
 .services-wrapper .col {
