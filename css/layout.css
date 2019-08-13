@@ -184,7 +184,7 @@ ul#nav li.active a { color: #11ABB0; }
 /* ================================================================== */
 
 #intro {
-   background: #111 url(../images/background-dark.jpg) no-repeat center;
+   background: #25292D url(../images/background-dark.jpg) no-repeat center;
    background-size: cover; 
 }
 
