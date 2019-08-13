@@ -184,7 +184,7 @@ ul#nav li.active a { color: #11ABB0; }
 /* ================================================================== */
 
 #intro {
-   background: #25292D url(../images/background-dark.jpg) no-repeat center;
+   background: #111 url(../images/background-dark.jpg) no-repeat center;
    background-size: cover; 
 }
 
@@ -270,8 +270,8 @@ ul#nav li.active a { color: #11ABB0; }
 /* ================================================================== */
 
 #services {
-   /*background: #1b1e21 url(../images/patterns/servicesbg.png); */
-   background-color: #25292D;
+   background: #1b1e21 url(../images/patterns/servicesbg.png); 
+   /*background-color: #25292D; */
    padding-top: 156px;
    padding-bottom: 120px;
    color: #4E565F;
