@@ -644,35 +644,10 @@ ul#nav li.active a { color: #11ABB0; }
 
 /* ================================================================== */
 
-/* h. Call To Action
+/* h. Call To Action -- deleted
 
 /* ================================================================== */
 
-#call-to-action {
-   background-color: #0f9095;
-   padding-top: 60px;
-   padding-bottom: 72px;
-   color: #7fe6ed;
-}
-#call-to-action .action { margin-top: 12px; }
-#call-to-action h2 {
-   font: 34px/42px montserrat-bold, sans-serif;
-   color: #fff;
-   letter-spacing: -1px;
-   margin-bottom: 3px;
-}
-#call-to-action h2 a { color: inherit; }
-#call-to-action p { font-size: 17px; }
-#call-to-action .button { background: #036569; }
-#call-to-action .button:hover,
-#call-to-action .button:active {
-   background: #fff;
-   color: #0F9095;
-}
-#call-to-action p span {
-	font-family: opensans-semibold, sans-serif;
-	color: #fff;
-}
 
 
 /* ================================================================== */
