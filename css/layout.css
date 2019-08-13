@@ -184,7 +184,7 @@ ul#nav li.active a { color: #11ABB0; }
 /* ================================================================== */
 
 #intro {
-   background: #111 url(../images/intro-bg.jpg) no-repeat center;
+   background: #111 url(../images/background-1.jpeg) no-repeat center;
    overflow: hidden;
 }
 
@@ -1276,6 +1276,14 @@ footer .social-links li:first-child { margin-left: 0; }
    -------------------------------------------------------------------- */
    #portfolio #portfolio-wrapper { margin-top: 12px; }
    #portfolio #portfolio-wrapper .col { width: 33.33333%; }
+
+
+   
+   /* portfolio section
+   -------------------------------------------------------------------- */
+   #portfolio-massage #portfolio-massage-wrapper { margin-top: 12px; }
+   #portfolio-massage #portfolio-massage-wrapper .col { width: 33.33333%; }
+
 
    /* journal section
    -------------------------------------------------------------------- */
