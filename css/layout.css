@@ -185,7 +185,7 @@ ul#nav li.active a { color: #11ABB0; }
 
 #intro {
    background: #111 url(../images/background-2.PNG) no-repeat center;
-   overflow: hidden;
+   overflow: auto;
 }
 
 /* FlexSlider Intro Slider Styles */
