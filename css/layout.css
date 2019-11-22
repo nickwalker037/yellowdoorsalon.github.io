@@ -99,7 +99,7 @@ header.static {
 
 /* header logo */
 header .logo {
-   position: absolute;
+   position: relative;
    height: 24px;
    width: 150px;
    float: left;
