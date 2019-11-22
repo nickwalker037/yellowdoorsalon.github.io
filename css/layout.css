@@ -101,7 +101,7 @@ header.static {
 header .logo {
    position: relative;
    height: 30px;
-   width: 45px;
+   width: 150px;
    float: left;
 }
 header .logo a {
