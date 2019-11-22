@@ -101,7 +101,7 @@ header.static {
 header .logo {
    position: absolute;
    height: 24px;
-   width: 15px;
+   width: 150px;
    float: left;
 }
 header .logo a {
@@ -113,8 +113,8 @@ header .logo a {
    line-height: 18px;
 
    position: absolute;
-   left: 12px;
-   top: 16px;
+   left: 2px;
+   top: 2px;
 }
 
 /* primary navigation
